@@ -5,6 +5,12 @@ coify
 
 Transform generator methods into [co](https://github.com/tj/co)-wrapped functions.
 
+### Installing
+
+```
+npm install --save coify
+```
+
 ### Examples
 
 ##### Plain JavaScript objects
