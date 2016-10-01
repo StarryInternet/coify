@@ -1,6 +1,8 @@
 coify
 ========
 
+![Codeship badge](https://codeship.com/projects/95129350-6a02-0134-c4d8-0611f7075927/status?branch=master)
+
 Transform generator methods into [co](https://github.com/tj/co)-wrapped functions.
 
 ### Examples
