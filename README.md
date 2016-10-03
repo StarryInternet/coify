@@ -16,7 +16,7 @@ npm install --save coify
 ##### Plain JavaScript objects
 
 ```js
-const coify = require('cloify');
+const coify = require('coify');
 
 function delay( n ) {
   return new Promise(function( resolve, reject ) {
@@ -41,7 +41,7 @@ obj.asyncStuff().then( console.log ); // `true`
 ##### Classes/Constructors
 
 ```js
-const coify = require('cloify');
+const coify = require('coify');
 
 function delay( n ) {
   return new Promise(function( resolve, reject ) {
