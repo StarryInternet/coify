@@ -1,6 +1,6 @@
 {
   "name": "coify",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Transform generator methods into co-wrapped functions",
   "author": "Kevin Ennis <kennis84@gmail.com",
   "scripts": {
